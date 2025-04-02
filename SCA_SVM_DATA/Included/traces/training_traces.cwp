@@ -1,0 +1,12 @@
+[Trace Management]
+tracefile0 = training_traces_data\traces\config_2025.03.22-20.28.06_0.cfg
+enabled0 = True
+tracefile1 = training_traces_data\traces\config_2025.03.22-20.28.07_1.cfg
+enabled1 = True
+[ChipWhisperer]
+[[General Settings]]
+Project Name = Untitled
+Project File Version = 1.00
+Project Author = Unknown
+Program Name = ChipWhisperer
+Program Version = ""
