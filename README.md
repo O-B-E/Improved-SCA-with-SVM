@@ -1,6 +1,6 @@
 # Improved-SCA-with-SVM-CWnano
 
-This repository contains an implementation of a side-channel attack (SCA) targeting **AES-128 encryption**, designed to run on the **ChipWhisperer Nano**.
+This repository contains an implementation of a side-channel attack (SCA) targeting **AES-128 encryption**, designed to run on the **ChipWhisperer Nano**. It follows the style and structure of other courses in the ChipWhisperer project.
 
 The attack is based on the method proposed in the paper:  
 **_"An Improved Side-Channel Attack Based on Support Vector Machine"_** by Zeng et al.
