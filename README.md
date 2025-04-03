@@ -5,6 +5,8 @@ This repository contains an implementation of a side-channel attack (SCA) target
 The attack is based on the method proposed in the paper:  
 **_"An Improved Side-Channel Attack Based on Support Vector Machine"_** by Zeng et al.
 
+***Note:*** To use the included traces and models you need to unzip `included.zip` under `SCA_SVM_DATA`.
+
 ## Requirements
 - **ChipWhisperer Nano** hardware  
 - **ChipWhisperer software**, available on the [ChipWhisperer GitHub page](https://github.com/newaetech/ChipWhisperer)  
